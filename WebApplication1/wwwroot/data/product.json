@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "jenlooper-cactus",
+    "Name": "Product 1",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKaCEuWpjjPPweHNaeHX-v0F1srl-c28Ajtw&usqp=CAU",
+    "Description": "Cashew nuts"
+  },
+  {
+    "Id": "jenlooper-light",
+    "Name": "Product 2",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO4ZYIAF_aISmVyKshnq2TkMNtnamEdOK7eBb5uD81jBQyfySKY5Kg3qFbNtkKWrqGxp4&usqp=CAU",
+    "Description": "Item product 2- All kinds of nuts"
+  },
+  {
+    "Id": "jenlooper-lightshow",
+    "Name": "Product 3",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68487R_gHovdj7TvJFXzjwJi7M5B84eNOVlg3UdER8Brvo3XgtM0FkMupmYdVX1mgZdk&usqp=CAU",
+    "Description": "Product item 3"
+  },
+  {
+    "Id": "jenlooper-survival",
+    "name": "Product 4",
+    "img": "https://images.pexels.com/photos/2641886/pexels-photo-2641886.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "Description": "Product Item 4"
+  }
+]
